@@ -83,9 +83,10 @@
 
 ###
 
-<h2 align="left">⚡States</h2>
+<h2 align="center">⚡States</h2>
 
 ###
+
 [![](https://github-readme-stats.vercel.app/api?username=BelindaTenorio&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BelindaTenorio)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=BelindaTenorio&theme=material-palenight)](https://github.com/BelindaTenorio)
 
@@ -99,6 +100,7 @@
 
 
 ###
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
