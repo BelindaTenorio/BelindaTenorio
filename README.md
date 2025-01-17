@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center"><b>Hi!, I'm Belinda Norely <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
+<h1 align="center"><b>Hola, soy Belinda Norely <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b></h1>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">🛠 Tech Stack:</h2>
+<h2 align="left">🛠 Herramientas:</h2>
 
 ###
 
@@ -83,16 +83,19 @@
 
 ###
 
-<h2 align="center">⚡States</h2>
+<h2 align="center">⚡Estado</h2>
 
 ###
-
+<div align="center">
+  
 [![](https://github-readme-stats.vercel.app/api?username=BelindaTenorio&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BelindaTenorio)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=BelindaTenorio&theme=material-palenight)](https://github.com/BelindaTenorio)
 
+</div>
+
 ###
 
-<h2 align="left">✨ Motivation</h2>
+<h2 align="left">✨ Motivación</h2>
 
 ###
 
